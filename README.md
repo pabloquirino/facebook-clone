@@ -7,7 +7,6 @@
 
  - Html
  - Tailwindcss
- - Javascript
 
  ### Veja o site aqui:
 https://pabloquirino.github.io/facebook-clone/src/
